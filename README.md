@@ -3,7 +3,7 @@
 ### Do código à produção.
 
 Desenvolvedor júnior em transição de carreira, de **Foz do Iguaçu – PR**.
-Tenho mais de 10 anos de experiência entre **TI, marketing e logística** e hoje construo produtos web com **agentes de IA e visão de produto**, enquanto aprofundo os fundamentos de JavaScript e React para revisar e depurar o código com autonomia.
+Trago experiência em **TI e marketing digital** e hoje construo produtos web com **agentes de IA**, enquanto aprofundo os fundamentos de JavaScript e React para revisar e depurar o código com autonomia.
 
 ---
 
@@ -12,7 +12,7 @@ Tenho mais de 10 anos de experiência entre **TI, marketing e logística** e hoj
 ### [FazÓrça](https://www.fazorca.com.br) · marketplace de serviços locais
 
 Conecta clientes a prestadores de serviço, do pedido de orçamento ao fechamento.
-Desenvolvido com IA (Claude Code) no código. Minha parte: **arquitetura, decisões de produto, validação técnica e publicação.**
+Desenvolvido com IA (Claude Code) no código. Minha parte: **arquitetura, definição do que será construído, validação técnica e publicação.**
 
 - Full stack com **Next.js 15, React, TypeScript e PostgreSQL (Supabase)**
 - App **Android** publicado na Google Play (teste fechado), via Capacitor
@@ -21,17 +21,17 @@ Desenvolvido com IA (Claude Code) no código. Minha parte: **arquitetura, decis�
 
 🔗 **[fazorca.com.br](https://www.fazorca.com.br)** · 📂 [Vitrine do projeto](https://github.com/Rafasix/fazorca-vitrine)
 
-### [Plataforma de lavanderia por assinatura](https://github.com/Rafasix/lavanderia-assinatura-vitrine) · case de Product Owner
+### [Plataforma de lavanderia com coleta e entrega](https://github.com/Rafasix/lavanderia-assinatura-vitrine)
 
-Coleta, pesagem, lavagem e entrega, com app do cliente, painel do operador e tela do motorista.
-Minha parte: **Product Owner e desenvolvimento**, com agentes de IA escrevendo o código sob a minha especificação.
+Três aplicações sobre o mesmo banco de dados, em tempo real. Desenvolvida com agentes de IA (Claude Code); minha parte: **arquitetura, validação técnica e publicação.**
 
-- Roadmap em 5 fases e **MVP sem o app do cliente** na v1 (pedido por WhatsApp)
-- Backlog priorizado (P0, P1, P2), 8 papéis de acesso e fluxo do pedido em 14 etapas
+- **App do cliente:** agenda a coleta e acompanha o pedido até a pesagem
+- **Painel do operador:** fila de trabalho, recebimento, pesagem, rotas e equipe
+- **App do motorista:** listas de coleta e entrega, com um toque por parada
 - **33 telas** em Next.js 16, React 19 e Supabase, com app Android via Capacitor
 - **CI no GitHub Actions**: testes de segurança do banco a cada mudança
 
-📂 [Case completo](https://github.com/Rafasix/lavanderia-assinatura-vitrine) (nome e marca omitidos por confidencialidade)
+📂 [Ver o projeto](https://github.com/Rafasix/lavanderia-assinatura-vitrine) (nome e marca omitidos por confidencialidade)
 
 ### [Humano vs Robô](https://rafasix.github.io/humano-vs-robo/) · jogo de luta por turnos
 
